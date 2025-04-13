@@ -19,6 +19,22 @@ target/
 *.iml
 *.ipr
 
+# Diretório de build
+target/
+
+# Arquivos de configuração local
+application-local.properties
+
+# Uploads
+uploads/
+
+# Arquivos de log
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
